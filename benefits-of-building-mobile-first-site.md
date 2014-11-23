@@ -1,3 +1,6 @@
 When building a mobile application, a developer will have to choose a digital platform to focus on first, since different code is required for the same app to exist across various mobile devices.  Building a “mobile-first” or a responsive web design site allows the product to be easy to read, use and navigate on all devices.  A “mobile-first” site is able to resize and shift text and images depending on the screen size of the device.  This is a huge benefit because all potential customers and/or users are able to access the product, regardless of which device they are using.  In doing some research, I found that 
 [Webflow] (https://webflow.com/) 
 is a service that allows one to build a responsive style website without code, simply through a visual editor style. 
+
+
+![multi-platform] (http://netdna.copyblogger.com/images/metro-theme-big.png)
