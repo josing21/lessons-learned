@@ -4,4 +4,4 @@ Backend languages are used to bring information onto the template. They are divi
 
 For more information on frontend and backend languages, see here: [http://blog.bloc.io/frontend-vs-backend-web-development/] (http://blog.bloc.io/frontend-vs-backend-web-development/)
 
-[http://xrds.acm.org/images/4833512699_761a3fcc61_b.jpg] (http://xrds.acm.org/images/4833512699_761a3fcc61_b.jpg)
+![http://xrds.acm.org/images/4833512699_761a3fcc61_b.jpg] (http://xrds.acm.org/images/4833512699_761a3fcc61_b.jpg)
