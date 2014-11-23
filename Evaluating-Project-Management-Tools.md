@@ -6,4 +6,5 @@ Jira: Jira also allows team members to track a project’s different work-stream
 Trello: Trello is another tool that allows project team members to track the progress of one another’s work. Our classmates liked Trello’s simple interface—it was easy to set up and invite other users to use a specific template. On the other hand, our classmates could see that Trello had limited functionality, and that they might have to use an additional tool to track more complex projects. 
 [Trello] (https://trello.com/)
 
+![Smiley Face] (http://www.geckorecruitment.com/wp-content/uploads/2013/10/smiley_face-290x300.jpg)
 
