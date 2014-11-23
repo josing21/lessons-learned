@@ -1,5 +1,5 @@
-A framework is group of pieces of software that have been prewritten in certain languages to allow programmers to create functions more quickly and easily. There are many different frameworks for different types of languages, for example Bootstrap for CSS, Angular for JavaScript, and Ruby on Rails for Ruby. Each framework provides an environment in which to write code that allows a programmer to reuse certain prewritten packages of code that are already tested and in accordance with best practices. An example of one of these packages of code would be the devise gem for Ruby on Rails 
-[devisegem] (https://rubygems.org/gems/devise)
+A framework is group of pieces of software that have been prewritten in certain languages to allow programmers to create functions more quickly and easily. There are many different frameworks for different types of languages, for example Bootstrap for CSS, Angular for JavaScript, and Ruby on Rails for Ruby. Each framework provides an environment in which to write code that allows a programmer to reuse certain prewritten packages of code that are already tested and in accordance with best practices. An example of one of these packages of code would be the devise gem for 
+[Ruby on Rails] (https://rubygems.org/gems/devise)
 which allows you to create user authentication pages more easily. By using this gem, a coder can create stylish and functional pages like the following, just by installing the gem, rather than having to write the code from scratch.
 
 ![deviseimage] (http://asciicasts.com/system/photos/373/original/E210I06.png)
