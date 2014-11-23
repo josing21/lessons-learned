@@ -1,4 +1,5 @@
 Designing a technical tool such as a website or app, requires that many different types of individuals collaborate: front-end developers, back-end developers, project managers, etc. Project and process management tools help individuals working on different aspects of a single project understand what each person or team is working on, how long it will take to complete, and what are the required next steps. Some of the tools we tested and discussed in class include: Leankit, Jira and Trello. Below is a brief description of each tool’s features, along with a summary of our classmates’ feedback:
+
 Leankit: Leankit allows team members to split their projects into different work streams such as “technical” or “non-technical”, and then track different phases on of the project through different “stage gates”. Our classmates enjoyed the tool’s simple interface, and also liked that the tool appeared to have a great deal of functionality, but it did not get in the way of completing simple tasks. On the other hand, our classmates struggled to find a way to work off of the same template. 
 [Lean Kit] (http://leankit.com/)
 
