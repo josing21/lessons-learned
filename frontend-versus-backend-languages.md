@@ -1,7 +1,0 @@
-HTML, CSS, and JavaScript are called frontend languages. They are used to create the user interface, a template on which information is dynamically changed. HTML is used for text specification (titles, subtitles, links), CSS is used for stylizing the template (bold, italic, colors), and JavaScript is used to add functionality to the page, such as prompting the user to enter text in a specified format.  
-
-Backend languages are used to bring information onto the template. They are divided into two categories – dynamic and static – and include languages such as Python, Ruby, Julia, and Java. These languages differ primarily in their strength, which is determined by how many lines of code are required to accomplish the same thing with fewer being the more powerful. Python and Ruby are newer than Java (they are currently in the early majority phase of adoption), but are much older than Julia, which is currently in the early adopter phase of its lifecycle. Newer languages tend to attract the best and brightest, but pose challenges for hiring and collaboration, as there are only a few programmers who are actually using them. 
-
-For more information on frontend and backend languages, see here: [http://blog.bloc.io/frontend-vs-backend-web-development/] (http://blog.bloc.io/frontend-vs-backend-web-development/)
-
-![Evolution of programming languages] (http://xrds.acm.org/images/4833512699_761a3fcc61_b.jpg)
